@@ -75,7 +75,8 @@ public class RollAball : MonoBehaviour
 }
 ```
 ## Output :
-![](./o1.png)
+![o1](https://github.com/thrikesh/Exp02-RollABall/assets/119576222/6fe3ac55-a253-467c-b834-c3cc305cfc94)
+
 
 ## Result :
 Thus a 3D application for RollABall objects in unity is developed successfully.
